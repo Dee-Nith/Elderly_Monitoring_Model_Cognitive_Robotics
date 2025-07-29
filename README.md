@@ -1,10 +1,6 @@
 # Elderly_Monitoring_Model_Cognitive_Robotics
 Monitoring Dangerous Cautions for Metally Unstable &amp; Elderly People in Health Care Sector
 
-Below is an image of the testing of the project ....
+Below is results of testing the model in live with an elderly people
 <br>
-<img src='img/Live Model test.png'>
-<br>
-<video controls>
-  <source src="video/test run.mp4" type="video/mp4">
-</video>
+![Live results](gif/Live%20results.gif)
