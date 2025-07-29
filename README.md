@@ -4,3 +4,7 @@ Monitoring Dangerous Cautions for Metally Unstable &amp; Elderly People in Healt
 Below is an image of the testing of the project ....
 <br>
 <img src='img/Live Model test.png'>
+<br>
+<video controls>
+  <source src="video/test run.mp4" type="video/mp4">
+</video>
