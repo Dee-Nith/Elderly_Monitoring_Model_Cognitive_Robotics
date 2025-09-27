@@ -45,8 +45,8 @@ data/*.mov
 data/*.csv
 !data/.gitkeep
 
-# Model files (keep structure but ignore large files)
-models/*.pkl
+# Model files - include essential model files for this project
+# models/*.pkl  # Commented out to include model files
 !models/.gitkeep
 
 # Logs
